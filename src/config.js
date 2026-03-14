@@ -1,7 +1,7 @@
 const config = {
 	//网页元数据
 	metaData: {
-		title: 'ZhouQ的个人主页🎉',
+		title: '邓昱的个人主页🎉',
 		description: '欢迎来到ZhouQ的奇妙世界！',
 		keywords: 'ZhouQ,个人主页,个人网站',
 		icon: '/favicon.ico'   //网页图标，支持外链
